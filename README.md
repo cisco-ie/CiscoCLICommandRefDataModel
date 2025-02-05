@@ -39,7 +39,9 @@ Output:
                 "description": "show isis [instance instance-id]",
                 "example": "Router# show isis\n  Wed Aug 20 23:54:55.043 PST DST\n  \n  IS-IS Router: lab\n    System Id: 0000.0000.0002 \n    IS Levels: level-2-only\n    Manual area address(es):\n      49.1122\n    Routing for area address(es):\n      49.1122\n    Non-stop forwarding: Disabled\n    Most recent startup mode: Cold Restart\n    Topologies supported by IS-IS:\n      IPv4 Unicast\n        Level-2\n          Metric style (generate/accept): Narrow/Narrow\n          Metric: 10\n        No protocols redistributed\n        Distance: 115\n    Interfaces supported by IS-IS:\n      Loopback0 is running passively (passive in configuration)\n      POS0/1/0/2 is running actively (active in configuration)\n      POS0/1/0/3 is running actively (active in configuration"
             }
-          
-         ] 
-]
+           }
+  ]
+  }
+  ] 
+
 
