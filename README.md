@@ -1,5 +1,4 @@
 # CiscoCLICommandRefDataModel
-Optimizing Cisco Command References LLM Integration
 
 Description:
 
