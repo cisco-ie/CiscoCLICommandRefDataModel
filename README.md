@@ -27,7 +27,7 @@ Input:
 
 Output:
 - JSON file ('output.json') containing the scraped data in a structured json format.
-- [
+- `[
     {
         "IS-IS Commands": [
             {
@@ -42,6 +42,6 @@ Output:
            }
   ]
   }
-  ] 
+  ] `
 
 
